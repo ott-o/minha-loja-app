@@ -1,0 +1,26 @@
+{
+  "name": "Gestão da Loja",
+  "short_name": "Minha Loja",
+  "description": "Produtos, estoque e vendas da sua loja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f5f7",
+  "theme_color": "#1d2330",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icone-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
